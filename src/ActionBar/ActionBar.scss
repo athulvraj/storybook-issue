@@ -1,0 +1,20 @@
+//@import '~fiori-fundamentals/scss/mixins';
+.button-bar {
+    border-radius: 4px;
+    background: white;
+    height: 35px;
+    padding: 10px;
+    margin-top: 48px;
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.15), 0 2px 8px 0 rgba(0, 0, 0, 0.3);
+    clear: float;
+    button {
+        float: right;
+        margin-right: 8px;
+    }
+}
+.fixed-footer {
+    position: fixed;
+    width: calc(100% - 80px);
+    bottom: 5px;
+    display: block;
+}

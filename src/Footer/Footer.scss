@@ -1,0 +1,14 @@
+//@import '~fiori-fundamentals/scss/mixins';
+.fg-footer {
+    display: flex;
+    .footer-logo-wrapper {
+        margin: auto 0px auto 32px; //fd-space('medium');
+        padding-bottom: 16px; //fd-space('small');
+        .footer-logo {
+            width: 60px;
+        }
+    }
+    .footer-text {
+        margin-left: 16px; //fd-space('small');
+    }
+}
