@@ -82,7 +82,7 @@
     "rollup-plugin-peer-deps-external": "^2.2.0",
     "rollup-plugin-postcss": "^1.6.2",
     "rollup-plugin-url": "^1.4.0",
-    "stylelint": "^13.6.0",
+    "stylelint": "^15.10.1",
     "stylelint-config-prettier": "^8.0.1",
     "stylelint-prettier": "^1.1.2"
   },
